@@ -1,6 +1,7 @@
 # Weather-App
 Weather Forecasting Application is one of the most common mini project in Software Development . In this article, we are going to make a Weather Forecasting Application from scratch which will tell us the weather of any location using its name . We will be covering all the steps you have to do while developing this mini project. The title of our project will be Todays Weather App.
 # Approach
+
 Create the Weather App UI Structure using the HTML elements like <div>, <h1>, <input> and <button>. Embed all the essential CDN links for Icons, Fonts, etc.
 Once the structure is created, the styling properties for each element like padding, box-shadow, transition, attractive effects like hovering, etc are been applied.
 In the main JavaScript file, the overall behavior of the application is been defined.
