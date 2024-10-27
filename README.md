@@ -4,3 +4,6 @@ Weather Forecasting Application is one of the most common mini project in Softwa
 Weather apps provide forecasts for the day, hour, or minute, and can include information like high temperatures, precipitation levels, and air quality
 # Current conditions
 Weather apps can provide information about the current temperature, weather conditions, humidity, and wind speed
+# API Security
+API Key Management: Ensures that only authorized apps or services can access the backend data. This includes using API keys, tokens, and rate limiting to prevent abuse.
+Secure Coding Practices: Protect against common security vulnerabilities (e.g., SQL injection, Cross-Site Scripting (XSS)) that could compromise the app's security.
